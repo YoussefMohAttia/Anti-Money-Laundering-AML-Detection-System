@@ -235,6 +235,7 @@ Anti-Money-Laundering-AML-Detection-System/
 ├── models/                               # Saved model, threshold, features, documentation
 ├── AML_Report.pdf                    # Short project report
 ├── Project.pdf                       # Notebook-by-notebook walkthrough
+├── images/                               # Figures used in this README
 ├── requirements.txt
 └── README.md
 ```
